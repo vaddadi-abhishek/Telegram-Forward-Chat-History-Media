@@ -4,7 +4,23 @@ This project allows you to forward media files from Bot to Channel using **Chann
 
 ---
 
-## 🚀 Setup Instructions
+## 📌 Steps to Create a Telegram Developer App (MTProto API)
+
+### 1️⃣ Sign in to Telegram's Developer Portal
+1. Go to: my.telegram.org
+2. Log in using your phone number
+3. You’ll get a login code in your Telegram app — enter it.
+
+### 2️⃣ Create a New Application
+1. Once logged in, click "API Development Tools".
+2. Fill in the form:
+3. App title → Any name (e.g., MyChannelBot).
+   Short name → A short identifier (e.g., channelbot).
+   Platform → Choose Desktop or Other (doesn’t matter much here).
+   Description → your app description.
+4. Click Create application.
+
+## 🚀 Telegram Setup
 
 ### 1️⃣ Find Your Channel ID
 1. Open Telegram and search for **@userinfobot**.
